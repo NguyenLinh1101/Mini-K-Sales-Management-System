@@ -156,6 +156,10 @@ Through this project, I gained practical experience in:
 
 ## Author
 
-**Linh**
+**Nguyen Thi Ngoc Linh**
 
 Team Leader – Mini K Sales Management System Project
+
+Email: ngoclinh2k51112@gmail.com
+
+Phone: 0363092652
